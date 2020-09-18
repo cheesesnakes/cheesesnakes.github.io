@@ -63,7 +63,7 @@ work_url: # work page URL
 keybase_username: # your keybase user name
 wikidata_id: # your wikidata id
 
-contact_note: >
+contact_note: Feel free to contact me about my work.
 
 <<<<<<< HEAD
 google_analytics: UA-XXXXXXXXX # out your google-analytics code
@@ -142,8 +142,12 @@ plugins:
 
 scholar:
 
+<<<<<<< HEAD
   last_name: Einstein
   first_name: [Albert, A.]
+=======
+  last_name: Dsouza
+>>>>>>> Updated profile
 
   style: apa
   locale: en
