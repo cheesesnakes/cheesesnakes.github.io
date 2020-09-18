@@ -1,6 +1,7 @@
 ---
 layout: page
 <<<<<<< HEAD
+<<<<<<< HEAD
 title: Birds and Butterflies of Tamhini Ghat
 description: Dissertation project submitted to Pune Univeristy.
 img: /assets/img/tamhini.jpg
@@ -84,3 +85,10 @@ Here's the code for the last row of images above:
 </div>
 ```
 >>>>>>> First comit. Sourced from https://github.com/alshedivat/al-folio
+=======
+title: Birds and Butterflies of Tamhini Ghat
+description: Dissertation project submitted to Pune Univeristy.
+img: /assets/img/tamhini.jpg
+importance: 3
+---
+>>>>>>> first draft

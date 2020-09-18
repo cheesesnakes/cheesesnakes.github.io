@@ -5,15 +5,19 @@
 title: blank # the website title (if blank, full name will be used instead)
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 first_name: You
 middle_name: R.
 last_name: Name
 email: you@example.com
 =======
+=======
+>>>>>>> first draft
 first_name: Shawn
 middle_name: 
 last_name: Dsouza
 email: shawn27.dsouza@gmail.com
+<<<<<<< HEAD
 >>>>>>> first draft
 =======
 first_name: You
@@ -21,6 +25,8 @@ middle_name: R.
 last_name: (Long Last) Name
 email: you@example.com
 >>>>>>> First comit. Sourced from https://github.com/alshedivat/al-folio
+=======
+>>>>>>> first draft
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
   A simple, whitespace theme for academics. Based on [*folio](https://github.com/bogoli/-folio) design.
 footer_text: >
@@ -70,18 +76,24 @@ og_image: # The site-wide (default for all links) Open Graph preview image
 # -----------------------------------------------------------------------------
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 github_username: cheesesnakes # your GitHub user name
 twitter_username: cheesesnakes # your Twitter handle
 =======
 github_username: # your GitHub user name
 twitter_username: # your Twitter handle
 >>>>>>> First comit. Sourced from https://github.com/alshedivat/al-folio
+=======
+github_username: cheesesnakes # your GitHub user name
+twitter_username: cheesesnakes # your Twitter handle
+>>>>>>> first draft
 linkedin_username: # your LinkedIn user name
 scholar_userid: # your Google Scholar ID
 orcid_id: # your ORCID ID
 medium_username: # your Medium username
 quora_username: # your Quora username
 publons_id: # your ID on Publons
+<<<<<<< HEAD
 <<<<<<< HEAD
 research_gate_profile: Shawn_Dsouza5 # your profile on ResearchGate
 blogger_url: # your blogger URL
@@ -99,18 +111,25 @@ google_analytics: # out your google-analytics code
 >>>>>>> first draft
 =======
 research_gate_profile: # your profile on ResearchGate
+=======
+research_gate_profile: Shawn_Dsouza5 # your profile on ResearchGate
+>>>>>>> first draft
 blogger_url: # your blogger URL
 
 contact_note: >
-  You can even add a little note about which of these is the best way to reach you.
 
+<<<<<<< HEAD
 google_analytics: UA-XXXXXXXXX # out your google-analytics code
 >>>>>>> First comit. Sourced from https://github.com/alshedivat/al-folio
+=======
+google_analytics: # out your google-analytics code
+>>>>>>> first draft
 
 # -----------------------------------------------------------------------------
 # Blog
 # -----------------------------------------------------------------------------
 
+<<<<<<< HEAD
 <<<<<<< HEAD
 blog_name: writing  # your blog must have a name for it to show up in the nav bar
 blog_description: Popular articles I have authored for various publications.
@@ -118,6 +137,10 @@ blog_description: Popular articles I have authored for various publications.
 blog_name: al-folio  # your blog must have a name for it to show up in the nav bar
 blog_description: a simple whitespace theme for academics
 >>>>>>> First comit. Sourced from https://github.com/alshedivat/al-folio
+=======
+blog_name: writing  # your blog must have a name for it to show up in the nav bar
+blog_description: Popular articles I have authored for various publications.
+>>>>>>> first draft
 permalink: /blog/:year/:title/
 
 # Pagination
@@ -126,10 +149,14 @@ pagination:
 
 # Comments
 <<<<<<< HEAD
+<<<<<<< HEAD
 disqus_shortname:  # put your disqus shortname
 =======
 disqus_shortname: al-folio # put your disqus shortname
 >>>>>>> First comit. Sourced from https://github.com/alshedivat/al-folio
+=======
+disqus_shortname:  # put your disqus shortname
+>>>>>>> first draft
 
 # -----------------------------------------------------------------------------
 # Collections

@@ -1,10 +1,14 @@
 ---
 layout: page
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> first draft
 title: Fisheries and marine mesopredators
 description: Changing mesopredator species dynamics in an anthropogenically dominated seascape
 img: /assets/img/fisheries.jpg
 importance: 1
+<<<<<<< HEAD
 redirect: https://github.com/cheesesnakes/sea-snake-resource-use
 ---
 =======
@@ -85,3 +89,6 @@ Here's the code for the last row of images above:
 </div>
 ```
 >>>>>>> First comit. Sourced from https://github.com/alshedivat/al-folio
+=======
+---
+>>>>>>> first draft

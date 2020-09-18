@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 My personal website to showcase my projects, writing and publications.
 
 <<<<<<< HEAD
@@ -294,3 +295,8 @@ Forked from https://github.com/alshedivat/al-folio
 >>>>>>> first draft
 =======
 >>>>>>> First comit. Sourced from https://github.com/alshedivat/al-folio
+=======
+My personal website to showcase my projects, writing and publications.
+
+Forked from https://github.com/alshedivat/al-folio
+>>>>>>> first draft
