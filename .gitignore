@@ -1,9 +1,17 @@
 _site
+<<<<<<< HEAD
 .bundle
+=======
+>>>>>>> First comit. Sourced from https://github.com/alshedivat/al-folio
 .sass-cache
 .jekyll-metadata
 .DS_store
 .ruby-version
+<<<<<<< HEAD
 .tweet-cache/
 Gemfile.lock
 vendor
+=======
+Gemfile.lock
+
+>>>>>>> First comit. Sourced from https://github.com/alshedivat/al-folio

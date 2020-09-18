@@ -2,7 +2,11 @@
 layout: page
 title: projects
 permalink: /projects/
+<<<<<<< HEAD
 description: Descriptions of current and past research projects.
+=======
+description: A growing collection of your cool projects.
+>>>>>>> First comit. Sourced from https://github.com/alshedivat/al-folio
 nav: true
 ---
 

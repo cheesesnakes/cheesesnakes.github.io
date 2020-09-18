@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 "Adams":
   - firstname: ["Edwin", "E.", "E. P.", "Edwin Plimpton"]
     url: https://en.wikipedia.org/wiki/Edwin_Plimpton_Adams
@@ -16,3 +17,13 @@
 
   - firstname: ["Carl Philipp Emanuel", "C. P. E."]
     url: https://en.wikipedia.org/wiki/Carl_Philipp_Emanuel_Bach
+=======
+Adams:
+    url: https://en.wikipedia.org/wiki/Edwin_Plimpton_Adams
+
+Podolsky:
+    url: https://en.wikipedia.org/wiki/Boris_Podolsky
+
+Rosen:
+    url: https://en.wikipedia.org/wiki/Nathan_Rosen
+>>>>>>> First comit. Sourced from https://github.com/alshedivat/al-folio

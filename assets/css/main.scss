@@ -3,12 +3,17 @@
 ---
 @charset "utf-8";
 
+<<<<<<< HEAD
 // Dimensions
 $max-content-width: {{site.max_width}};
 
 @import
   "variables",
   "themes",
+=======
+@import
+  "variables",
+>>>>>>> First comit. Sourced from https://github.com/alshedivat/al-folio
   "layout",
   "base"
 ;

@@ -4,8 +4,12 @@
 
  body {
    padding-bottom: 70px;
+<<<<<<< HEAD
    color: var(--global-text-color);
    background-color: var(--global-bg-color);
+=======
+   color: $text-color;
+>>>>>>> First comit. Sourced from https://github.com/alshedivat/al-folio
  }
 
  body.fixed-top-nav {

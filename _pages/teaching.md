@@ -1,5 +1,6 @@
 ---
 layout: page
+<<<<<<< HEAD
 permalink: /talks/
 title: talks and posters
 description: Conference presentaions, posters and invited talks
@@ -48,3 +49,14 @@ nav: true
     A student poster at the Young Ecologists Talk and Interact (YETI) conference in 2017 at Tezpur University.
 
 
+=======
+permalink: /teaching/
+title: teaching
+description: Materials for courses you taught. Replace this text with your description.
+nav: true
+---
+
+For now, this page is assumed to be a static description of your courses. You can convert it to a collection similar to `_projects/` so that you can have a dedicated page for each course.
+
+Organize your courses by years, topics, or universities, however you like!
+>>>>>>> First comit. Sourced from https://github.com/alshedivat/al-folio

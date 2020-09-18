@@ -4,6 +4,7 @@
 
 // Typography
 
+<<<<<<< HEAD
 p, h1, h2, h3, h4, h5, h6, em, div, span, strong {
   color: var(--global-text-color);
 }
@@ -12,6 +13,12 @@ a, table.table a {
   color: var(--global-theme-color);
   &:hover {
     color: var(--global-theme-color);
+=======
+a, table.table a {
+  color: $theme-color;
+  &:hover {
+    color: $theme-color;
+>>>>>>> First comit. Sourced from https://github.com/alshedivat/al-folio
     text-decoration: underline;
   }
   &:hover:after {
@@ -65,11 +72,19 @@ a, table.table a {
 
 .post-description {
   margin-bottom: 2rem;
+<<<<<<< HEAD
   font-size: 0.875rem;
   a {
     color: inherit;
     &:hover {
       color: var(--global-theme-color);
+=======
+  a {
+    color: inherit;
+    font-size: 0.875rem;
+    &:hover {
+      color: $theme-color;
+>>>>>>> First comit. Sourced from https://github.com/alshedivat/al-folio
       text-decoration: none;
     }
   }
@@ -82,7 +97,10 @@ a, table.table a {
   box-shadow: none;
   border-bottom: 1px solid $grey-color-light;
   opacity: 0.95;
+<<<<<<< HEAD
   background-color: var(--global-bg-color);
+=======
+>>>>>>> First comit. Sourced from https://github.com/alshedivat/al-folio
 }
 .navbar.navbar-light {
   // Remove link decoration
@@ -91,6 +109,7 @@ a, table.table a {
       text-decoration: none;
     }
   }
+<<<<<<< HEAD
   .navbar-brand {
     color: var(--global-text-color);
   }
@@ -98,21 +117,39 @@ a, table.table a {
     color: var(--global-text-color);
     &:hover {
       color: var(--global-hover-color);
+=======
+  .navbar-nav .nav-item .nav-link {
+    &:hover {
+      color: $theme-color;
+>>>>>>> First comit. Sourced from https://github.com/alshedivat/al-folio
     }
   }
   .navbar-nav .nav-item.active>.nav-link {
       background-color: inherit;
+<<<<<<< HEAD
       font-weight: bolder;
       color: var(--global-theme-color);
       &:hover {
         color: var(--global-hover-color);
+=======
+      color: $theme-color;
+      font-weight: bolder;
+      &:hover {
+        color: $theme-color;
+>>>>>>> First comit. Sourced from https://github.com/alshedivat/al-folio
       }
   }
   .contact-icon {
     font-size: 2rem;
     a {
+<<<<<<< HEAD
       &:hover {
         color: var(--global-hover-color);
+=======
+      color: $grey-color-dark;
+      &:hover {
+        color: $theme-color;
+>>>>>>> First comit. Sourced from https://github.com/alshedivat/al-folio
       }
     }
   }
@@ -123,7 +160,11 @@ a, table.table a {
     display: block;
     width: 22px;
     height: 2px;
+<<<<<<< HEAD
     background-color: var(--global-icon-color);
+=======
+    background-color: $grey-color-dark;
+>>>>>>> First comit. Sourced from https://github.com/alshedivat/al-folio
     border-radius: 1px;
     margin-bottom: 4px;
     transition: all 0.2s;
@@ -158,12 +199,17 @@ a, table.table a {
 
 .news table td {
   font-size: 1rem;
+<<<<<<< HEAD
   color: var(--global-text-color);
 }
 
 .news table th {
   color: var(--global-text-color);
 }
+=======
+}
+
+>>>>>>> First comit. Sourced from https://github.com/alshedivat/al-folio
 
 // Social (bottom)
 
@@ -172,9 +218,15 @@ a, table.table a {
   .contact-icon {
     font-size: 4rem;
     a {
+<<<<<<< HEAD
       color: var(--global-icon-color);
       &:hover {
         color: var(--global-theme-color);
+=======
+      color: $grey-color-dark;
+      &:hover {
+        color: $theme-color;
+>>>>>>> First comit. Sourced from https://github.com/alshedivat/al-folio
       }
     }
   }
@@ -185,18 +237,33 @@ a, table.table a {
 
 
 // Footer
+<<<<<<< HEAD
 footer.fixed-bottom {
   background-color: var(--global-footer-bg-color);
   font-size: 0.75rem;
   .container {
     color: var(--global-footer-text-color);
+=======
+
+footer.fixed-bottom {
+  color: lighten($grey-color, 25%);
+  background-color: $grey-color-dark;
+  font-size: 0.75rem;
+  .container {
+>>>>>>> First comit. Sourced from https://github.com/alshedivat/al-folio
     padding-top: 9px;
     padding-bottom: 8px;
   }
   a {
+<<<<<<< HEAD
     color: var(--global-footer-link-color);
     &:hover {
       color: pink;
+=======
+    color: white;
+    &:hover {
+      color: lighten($theme-color, 25%);
+>>>>>>> First comit. Sourced from https://github.com/alshedivat/al-folio
       text-decoration: none;
     }
   }
@@ -218,7 +285,11 @@ footer.sticky-bottom {
   padding-top: 2rem;
   padding-bottom: 5rem;
   h1 {
+<<<<<<< HEAD
     color: var(--global-theme-color);
+=======
+    color: $theme-color;
+>>>>>>> First comit. Sourced from https://github.com/alshedivat/al-folio
     font-size: 5rem;
   }
 }
@@ -238,15 +309,23 @@ footer.sticky-bottom {
       margin-bottom: 0;
     }
     a {
+<<<<<<< HEAD
       color: var(--global-text-color);
       text-decoration: none;
       &:hover {
         color: var(--global-theme-color);
+=======
+      color: black;
+      text-decoration: none;
+      &:hover {
+        color: $theme-color;
+>>>>>>> First comit. Sourced from https://github.com/alshedivat/al-folio
       }
     }
   }
 }
 
+<<<<<<< HEAD
 .pagination {
   .page-item {
     .page-link {
@@ -261,6 +340,12 @@ footer.sticky-bottom {
         background-color: var(--global-theme-color);
       }
     }
+=======
+.pagination .page-item.active .page-link {
+  background-color: $theme-color;
+  &:hover {
+    background-color: $theme-color;
+>>>>>>> First comit. Sourced from https://github.com/alshedivat/al-folio
   }
 }
 
@@ -269,7 +354,11 @@ footer.sticky-bottom {
 
 .distill {
   a:hover {
+<<<<<<< HEAD
     border-bottom-color: var(--global-theme-color);
+=======
+    border-bottom-color: $theme-color;
+>>>>>>> First comit. Sourced from https://github.com/alshedivat/al-folio
     text-decoration: none;
   }
 }
@@ -285,7 +374,11 @@ footer.sticky-bottom {
       color: black;
       text-decoration: none;
       &:hover {
+<<<<<<< HEAD
         color: var(--global-theme-color);
+=======
+        color: $theme-color;
+>>>>>>> First comit. Sourced from https://github.com/alshedivat/al-folio
       }
     }
   }
@@ -300,7 +393,11 @@ footer.sticky-bottom {
 .publications {
   margin-top: 2rem;
   h1 {
+<<<<<<< HEAD
     color: var(--global-theme-color);
+=======
+    color: $theme-color;
+>>>>>>> First comit. Sourced from https://github.com/alshedivat/al-folio
     font-size: 2rem;
     text-align: center;
     margin-top: 1em;
@@ -332,7 +429,11 @@ footer.sticky-bottom {
         margin-bottom: 0.5rem;
         abbr {
           display: inline-block;
+<<<<<<< HEAD
           background-color: var(--global-theme-color);
+=======
+          background-color: $theme-color;
+>>>>>>> First comit. Sourced from https://github.com/alshedivat/al-folio
           padding-left: 1rem;
           padding-right: 1rem;
           a {
@@ -343,8 +444,13 @@ footer.sticky-bottom {
           }
         }
         .award {
+<<<<<<< HEAD
           color: var(--global-theme-color) !important;
           border: 1px solid var(--global-theme-color);
+=======
+          color: $theme-color !important;
+          border: 1px solid $theme-color;
+>>>>>>> First comit. Sourced from https://github.com/alshedivat/al-folio
         }
       }
       .title {
@@ -352,7 +458,11 @@ footer.sticky-bottom {
       }
       .author {
         a {
+<<<<<<< HEAD
           border-bottom: 1px dashed var(--global-theme-color);
+=======
+          border-bottom: 1px dashed $theme-color;
+>>>>>>> First comit. Sourced from https://github.com/alshedivat/al-folio
           &:hover {
               border-bottom-style: solid;
               text-decoration: none;
@@ -365,15 +475,25 @@ footer.sticky-bottom {
       }
       .links {
         a.btn {
+<<<<<<< HEAD
           color: var(--global-text-color);
           border: 1px solid var(--global-text-color);
+=======
+          color: $text-color;
+          border: 1px solid $text-color;
+>>>>>>> First comit. Sourced from https://github.com/alshedivat/al-folio
           padding-left: 1rem;
           padding-right: 1rem;
           padding-top: 0.25rem;
           padding-bottom: 0.25rem;
           &:hover {
+<<<<<<< HEAD
             color: var(--global-theme-color);
             border-color: var(--global-theme-color);
+=======
+            color: $theme-color;
+            border-color: $theme-color;
+>>>>>>> First comit. Sourced from https://github.com/alshedivat/al-folio
           }
         }
       }
@@ -407,14 +527,22 @@ footer.sticky-bottom {
         transition: all 0.15s ease;
       }
       div.abstract.hidden {
+<<<<<<< HEAD
         border: dashed 1px var(--global-bg-color);
       }
       div.abstract.hidden.open {
         border-color: var(--global-text-color);
+=======
+        border: dashed 1px white;
+      }
+      div.abstract.hidden.open {
+        border-color: $grey-color;
+>>>>>>> First comit. Sourced from https://github.com/alshedivat/al-folio
       }
     }
   }
 }
+<<<<<<< HEAD
 
 // Rouge Color Customization
 code {
@@ -428,3 +556,5 @@ html.transition *:after {
   transition: all 750ms !important;
   transition-delay: 0 !important;
 }
+=======
+>>>>>>> First comit. Sourced from https://github.com/alshedivat/al-folio

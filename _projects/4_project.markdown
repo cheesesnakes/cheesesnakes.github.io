@@ -1,6 +1,9 @@
 ---
 layout: page
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> First comit. Sourced from https://github.com/alshedivat/al-folio
 title: project 4
 description: another without an image
 img:
@@ -76,6 +79,7 @@ Here's the code for the last row of images above:
     </div>
 </div>
 ```
+<<<<<<< HEAD
 =======
 title: Sea snakes and bycatch 
 description: Demographics and reproductive biology of Hydrophis schistosus may make it more resilient to bycatch effects than other sea snakes.
@@ -84,3 +88,5 @@ importance: 3
 redirect: https://github.com/cheesesnakes/sea-snake-demo-repro
 ---
 >>>>>>> Updated project pages
+=======
+>>>>>>> First comit. Sourced from https://github.com/alshedivat/al-folio
