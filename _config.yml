@@ -120,7 +120,7 @@ research_gate_profile: Shawn_Dsouza5 # your profile on ResearchGate
 >>>>>>> first draft
 blogger_url: # your blogger URL
 
-contact_note: >
+contact_note: Feel free to contact me about my work.
 
 <<<<<<< HEAD
 google_analytics: UA-XXXXXXXXX # out your google-analytics code
@@ -224,6 +224,7 @@ scholar:
 
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
   last_name: Einstein
   first_name: [Albert, A.]
 =======
@@ -232,6 +233,9 @@ scholar:
 =======
   last_name: Einstein
 >>>>>>> First comit. Sourced from https://github.com/alshedivat/al-folio
+=======
+  last_name: Dsouza
+>>>>>>> Updated profile
 
   style: apa
   locale: en
