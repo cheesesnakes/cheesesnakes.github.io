@@ -2,6 +2,7 @@
 layout: page
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 title: Sea snakes assemblage shifts
 description: Fisheries induced shifts in sea snake assemblages along the Konkan coast of India
 img: /assets/img/bycatch.jpg
@@ -88,7 +89,12 @@ Here's the code for the last row of images above:
 =======
 title: Sea snakes bycatch
 description: Assessing bycatch and risk of mortality of sea snakes on the west coast of India
+=======
+title: Sea snakes assemblage shifts
+description: Fisheries induced shifts in sea snake assemblages along the Konkan coast of India
+>>>>>>> Updated project pages
 img: /assets/img/bycatch.jpg
 importance: 2
+redirect: https://github.com/cheesesnakes/sea-snake-bycatch
 ---
 >>>>>>> first draft
