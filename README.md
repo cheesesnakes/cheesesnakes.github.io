@@ -1,12 +1,6 @@
-<<<<<<< HEAD
-<<<<<<< HEAD
 My personal website to showcase my projects, writing and publications.
 
 <<<<<<< HEAD
-=======
-# al-folio
-
->>>>>>> First comit. Sourced from https://github.com/alshedivat/al-folio
 [![build status](https://travis-ci.org/alshedivat/al-folio.svg?branch=master)](https://travis-ci.org/alshedivat/al-folio)
 [![demo](https://img.shields.io/badge/theme-demo-brightgreen.svg)](https://alshedivat.github.io/al-folio/)
 [![gitter](https://badges.gitter.im/alshedivat/al-folio.svg)](https://gitter.im/alshedivat/al-folio?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
@@ -55,12 +49,9 @@ Feel free to add your own page(s) by sending a PR.
 <a href="https://apooladian.github.io/" target="_blank">★</a>
 <a href="https://chinmoy-dutta.github.io/" target="_blank">★</a>
 <a href="https://liamcli.com/" target="_blank">★</a>
-<<<<<<< HEAD
 <a href="https://yoonholee.com/" target="_blank">★</a>
 <a href="https://zrqiao.github.io/" target="_blank">★</a>
 <a href="https://abstractgeek.github.io/" target="_blank">★</a>
-=======
->>>>>>> First comit. Sourced from https://github.com/alshedivat/al-folio
 </td>
 </tr>
 <tr>
@@ -152,7 +143,6 @@ Your publications page is generated automatically from your BibTex bibliography.
 Simply edit `_bibliography/papers.bib`.
 You can also add new `*.bib` files and customize the look of your publications however you like by editing `_pages/publications.md`.
 
-<<<<<<< HEAD
 #### Author Annotation
 In publications, the author entry for your self is identified by string `scholar:last_name` and string array `scholar:first_name` in `_config.yml`. If the entry matches the last name and one form of the first names, it will be underlined. 
 ```
@@ -183,9 +173,6 @@ The coauthor data format in `_data/coauthors.yml` is as follows,
     url: https://en.wikipedia.org/wiki/Carl_Philipp_Emanuel_Bach
 ```
 If the entry matches one of the combinations of the last names and the first names, it will be highlighted and linked to the url provided. 
-=======
-Keep meta-information about your co-authors in `_data/coauthors.yml` and Jekyll will insert links to their webpages automatically.
->>>>>>> First comit. Sourced from https://github.com/alshedivat/al-folio
 
 <p align="center"><img src="assets/img/publications-screenshot.png" width=800></p>
 
@@ -240,11 +227,7 @@ Easily create beautiful grids within your blog posts and project pages:
 
 #### Theming
 Six beautiful theme colors have been selected to choose from.
-<<<<<<< HEAD
 The default is purple, but you can quickly change it by editing `$theme-color` variable in the `_sass/_themes.scss` file.
-=======
-The default is purple, but you can quickly change it by editing `$theme-color` variable in the `_sass/variables.scss` file.
->>>>>>> First comit. Sourced from https://github.com/alshedivat/al-folio
 Other color variables are listed there as well.
 
 #### Social media previews
@@ -289,14 +272,6 @@ The theme is available as open source under the terms of the [MIT License](https
 
 Originally, **al-folio** was based on the [\*folio theme](https://github.com/bogoli/-folio) (published by [Lia Bogoev](http://liabogoev.com) and under the MIT license).
 Since then, it got a full re-write of the styles and many additional cool features.
-<<<<<<< HEAD
 =======
-Forked from https://github.com/alshedivat/al-folio
->>>>>>> first draft
-=======
->>>>>>> First comit. Sourced from https://github.com/alshedivat/al-folio
-=======
-My personal website to showcase my projects, writing and publications.
-
 Forked from https://github.com/alshedivat/al-folio
 >>>>>>> first draft

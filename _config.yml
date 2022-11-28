@@ -4,28 +4,15 @@
 
 title: blank # the website title (if blank, full name will be used instead)
 <<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
 first_name: You
 middle_name: R.
 last_name: Name
 email: you@example.com
 =======
-=======
->>>>>>> first draft
 first_name: Shawn
 middle_name: 
 last_name: Dsouza
 email: shawn27.dsouza@gmail.com
-<<<<<<< HEAD
->>>>>>> first draft
-=======
-first_name: You
-middle_name: R.
-last_name: (Long Last) Name
-email: you@example.com
->>>>>>> First comit. Sourced from https://github.com/alshedivat/al-folio
-=======
 >>>>>>> first draft
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
   A simple, whitespace theme for academics. Based on [*folio](https://github.com/bogoli/-folio) design.
@@ -35,18 +22,9 @@ footer_text: >
   Photos from <a href="https://unsplash.com" target="_blank">Unsplash</a>.
 
 url:  # the base hostname & protocol for your site
-<<<<<<< HEAD
-<<<<<<< HEAD
 baseurl: # the subpath of your site, e.g. /blog/
 last_updated: false # set to true if you want to display last updated in the footer
 impressum_path:  # set to path to include impressum link in the footer, use the same path as permalink in a page, helps to conform with EU GDPR
-=======
-baseurl: /al-folio # the subpath of your site, e.g. /blog/
-=======
-baseurl: # the subpath of your site, e.g. /blog/
->>>>>>> bug fix config.yml
-last_updated: false # set to true if you want to display last updated in the footer
->>>>>>> First comit. Sourced from https://github.com/alshedivat/al-folio
 
 # -----------------------------------------------------------------------------
 # Layout
@@ -54,24 +32,16 @@ last_updated: false # set to true if you want to display last updated in the foo
 
 navbar_fixed: true
 footer_fixed: true
-<<<<<<< HEAD
 
 # Dimensions
 max_width: 800px
 
-=======
->>>>>>> First comit. Sourced from https://github.com/alshedivat/al-folio
 # TODO: add layout settings (single page vs. multi-page)
 
 # -----------------------------------------------------------------------------
 # Open Graph
 # -----------------------------------------------------------------------------
 # Display links to the page with a preview object on social media.
-<<<<<<< HEAD
-=======
-# To achieve this, change serve_og_meta to true and then provide the URL of the
-# preview image as the value of og_image.
->>>>>>> First comit. Sourced from https://github.com/alshedivat/al-folio
 serve_og_meta: false # Include Open Graph meta tags in the HTML head
 og_image: # The site-wide (default for all links) Open Graph preview image
 
@@ -79,26 +49,14 @@ og_image: # The site-wide (default for all links) Open Graph preview image
 # Social integration
 # -----------------------------------------------------------------------------
 
-<<<<<<< HEAD
-<<<<<<< HEAD
 github_username: cheesesnakes # your GitHub user name
 twitter_username: cheesesnakes # your Twitter handle
-=======
-github_username: # your GitHub user name
-twitter_username: # your Twitter handle
->>>>>>> First comit. Sourced from https://github.com/alshedivat/al-folio
-=======
-github_username: cheesesnakes # your GitHub user name
-twitter_username: cheesesnakes # your Twitter handle
->>>>>>> first draft
 linkedin_username: # your LinkedIn user name
 scholar_userid: # your Google Scholar ID
 orcid_id: # your ORCID ID
 medium_username: # your Medium username
 quora_username: # your Quora username
 publons_id: # your ID on Publons
-<<<<<<< HEAD
-<<<<<<< HEAD
 research_gate_profile: Shawn_Dsouza5 # your profile on ResearchGate
 blogger_url: # your blogger URL
 work_url: # work page URL
@@ -113,38 +71,13 @@ panelbear_analytics: XXXXXXXXX # panelbear analytics site ID
 =======
 google_analytics: # out your google-analytics code
 >>>>>>> first draft
-=======
-research_gate_profile: # your profile on ResearchGate
-=======
-research_gate_profile: Shawn_Dsouza5 # your profile on ResearchGate
->>>>>>> first draft
-blogger_url: # your blogger URL
-
-contact_note: Feel free to contact me about my work.
-
-<<<<<<< HEAD
-google_analytics: UA-XXXXXXXXX # out your google-analytics code
->>>>>>> First comit. Sourced from https://github.com/alshedivat/al-folio
-=======
-google_analytics: # out your google-analytics code
->>>>>>> first draft
 
 # -----------------------------------------------------------------------------
 # Blog
 # -----------------------------------------------------------------------------
 
-<<<<<<< HEAD
-<<<<<<< HEAD
 blog_name: writing  # your blog must have a name for it to show up in the nav bar
 blog_description: Popular articles I have authored for various publications.
-=======
-blog_name: al-folio  # your blog must have a name for it to show up in the nav bar
-blog_description: a simple whitespace theme for academics
->>>>>>> First comit. Sourced from https://github.com/alshedivat/al-folio
-=======
-blog_name: writing  # your blog must have a name for it to show up in the nav bar
-blog_description: Popular articles I have authored for various publications.
->>>>>>> first draft
 permalink: /blog/:year/:title/
 
 # Pagination
@@ -152,15 +85,7 @@ pagination:
   enabled: true
 
 # Comments
-<<<<<<< HEAD
-<<<<<<< HEAD
 disqus_shortname:  # put your disqus shortname
-=======
-disqus_shortname: al-folio # put your disqus shortname
->>>>>>> First comit. Sourced from https://github.com/alshedivat/al-folio
-=======
-disqus_shortname:  # put your disqus shortname
->>>>>>> first draft
 
 # -----------------------------------------------------------------------------
 # Collections
@@ -203,15 +128,10 @@ exclude: [vendor]
 # Plug-ins
 plugins:
   - jekyll-email-protect
-<<<<<<< HEAD
   - jekyll-github-metadata
   - jekyll-paginate-v2
   - jekyll/scholar
   - jekyll-twitter-plugin
-=======
-  - jekyll-paginate-v2
-  - jekyll/scholar
->>>>>>> First comit. Sourced from https://github.com/alshedivat/al-folio
   - jemoji
   # - bootstrap
   # - material-sass
@@ -223,16 +143,8 @@ plugins:
 scholar:
 
 <<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
   last_name: Einstein
   first_name: [Albert, A.]
-=======
-  last_name: Dsouza
->>>>>>> Updated profile
-=======
-  last_name: Einstein
->>>>>>> First comit. Sourced from https://github.com/alshedivat/al-folio
 =======
   last_name: Dsouza
 >>>>>>> Updated profile
@@ -257,7 +169,6 @@ scholar:
 # Optional Features
 # -----------------------------------------------------------------------------
 
-<<<<<<< HEAD
 enable_google_analytics:    false
 enable_panelbear_analytics: false
 enable_mansory:             true
@@ -265,14 +176,6 @@ enable_math:                true
 enable_tooltips:            false
 enable_darkmode:            true
 show_social_icons:          false
-=======
-enable_google_analytics:  false
-enable_katex:             true
-enable_mansory:           true
-enable_progressbar:       true
-enable_tooltips:          false
-show_social_icons:        false
->>>>>>> First comit. Sourced from https://github.com/alshedivat/al-folio
 
 # -----------------------------------------------------------------------------
 # Library versions
@@ -291,18 +194,9 @@ fontawesome:
   integrity: "sha512-1PKOgIY59xJ8Co8+NE6FZ+LOAZKjy+KY8iq0G4B3CyeY6wYHN3yt9PW0XpSriVlkMXe40PTKnXrLnZ9+fkDaog=="
 jquery:
   version: "3.5.1"
-<<<<<<< HEAD
   integrity: "sha512-bLT0Qm9VnAYZDflyKcBaQ2gg0hSYNQrJ8RilYldYQ1FxQYoCLtUjuuRuZo+fjqhx/qtq/1itJ0C2ejDxltZVFg=="
 mathjax:
   version: "3.1.2"
-=======
-  integrity: "sha512-/DXTXr6nQodMUiq+IUJYCt2PPOUjrHJ9wFrqpJ3XkgPNOZVfMok7cRw6CSxyCQxXn6ozlESsSh1/sMCTF1rL/g=="
-katex:
-  version: "0.12.0"
-  integrity:
-    css: "sha512-h7nl+xz8wgDlNM4NqKEM4F1NkIRS17M9+uJwIGwuo8vGqIl4BhuCKdxjWEINm+xyrUjNCnK5dCrhM0sj+wTIXw=="
-    js: "sha512-/CMIhXiDA3m2c9kzRyd97MTb3MC6OVnx4TElQ7fkkoRghwDf6gi41gaT1PwF270W6+J60uTmwgeRpNpJdRV6sg=="
->>>>>>> First comit. Sourced from https://github.com/alshedivat/al-folio
 mansory:
   version: "4.2.2"
   integrity: "sha256-Nn1q/fx0H7SNLZMQ5Hw5JLaTRZp0yILA/FRexe19VdI="
